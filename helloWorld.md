@@ -12,6 +12,10 @@
 ```python
 print("Hello World")
 ```
+#### Output ->
+```
+Hello World
+```
 
 ### Hello World in C#
 
@@ -31,6 +35,10 @@ namespace HelloWorld {
       }
 }
 ```
+#### Output ->
+```
+Hello World
+```
 
 ### Hello World in C
 
@@ -41,3 +49,8 @@ int main() {
       return 0;
 }
 ```
+#### Output ->
+```
+Hello World
+```
+
