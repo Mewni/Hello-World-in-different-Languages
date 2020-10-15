@@ -20,15 +20,24 @@ Hello World
 ### Hello World in C#
 
 ```C#
+// C# program to print Hello World
 using System;
 
+// namespace declaration
 namespace HelloWorld {
 
+      // Class declaration
       class Hello {
 
+            // Main Method
             static void Main(string[] args) {
-
+                  
+                  // this prints Hello World on the 
+                  //console
                   Console.WriteLine("Hello World!");
+
+                  // This prevents the screen from running
+                  // and closing quickly
                   Console.ReadKey();
 
             }
